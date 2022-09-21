@@ -21,7 +21,7 @@
     "@babel/register": "7.13.16",
     "documentation": "^14.0.0",
     "eslint": "7.27.0",
-    "eslint-plugin-mocha": "9.0.0",
+    "eslint-plugin-mocha": "10.1.0",
     "growl": "~> 1.10.0",
     "jsdom": "9.8.3",
     "jsdom-global": "2.1.0",
