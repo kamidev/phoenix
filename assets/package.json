@@ -27,7 +27,7 @@
     "jsdom-global": "2.1.0",
     "mocha": "^10.1.0",
     "mock-socket": "^9.0.0",
-    "sinon": "^9.0.1"
+    "sinon": "^15.0.1"
   },
   "sideEffects": false,
   "scripts": {
